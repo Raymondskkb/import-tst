@@ -6,3 +6,4 @@ This is the 5th line of the code
 
 This is from and on a new branch GSE-1557
 this does not change
+added a .git ignore file to not add a tas file
