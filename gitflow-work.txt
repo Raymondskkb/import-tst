@@ -1,0 +1,22 @@
+initialise repo -- git flow init 
+set main and Develop branch names, then the rest default
+git flow release start release-branch
+git flow release finish release-branch
+git flow publish
+
+At all times develop branch is at the same level with master
+when create a hotix/feature branch merging happens to dev bracnh
+
+----------------------------------------------------------------------
+Available subcommands are:
+   init      Initialize a new git repo with support for the branching model.
+   feature   Manage your feature branches.
+   bugfix    Manage your bugfix branches.
+   release   Manage your release branches.
+   hotfix    Manage your hotfix branches.
+   support   Manage your support branches.
+   version   Shows version information.
+   config    Manage your git-flow configuration.
+   log       Show log deviating from base branch.
+
+Try 'git flow <subcommand> help' for details.
