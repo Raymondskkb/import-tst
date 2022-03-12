@@ -3,5 +3,3 @@ This is the first line of code.
 Keep adding this line
 This is the 4th line of the code
 This is the 5th line of the code
-
-index.html file added and linked to this
