@@ -1,0 +1,4 @@
+this is test note 2.  after adding the .gitignore file
+
+This is file
+this is a line on line 4
