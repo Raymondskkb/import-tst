@@ -1,6 +1,0 @@
-This is the first line of code.
-#this is a comment of the code
-Keep adding these lines
-This is the 4th line of the code
-This is the 5th line of the code
-added a .git ignore file to not add a tas file

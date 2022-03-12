@@ -1,4 +1,0 @@
-# ignores and removes all .txt files
-*.txt
-.env
-tas
